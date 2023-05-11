@@ -2,3 +2,4 @@ test file
 
 Hello world, How are things going on
 //no
+//local master
